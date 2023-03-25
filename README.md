@@ -1,10 +1,10 @@
 # Data Structures and Algorithms
 
-Welcome to our Data Structures and Algorithms course! This repository contains code examples and notes for the course, as well as resources for further learning.
+Welcome to my Data Structures and Algorithms course! This repository contains code examples and notes for the course, as well as resources for further learning.
 
 ## Course Outline
 
-Our course is divided into several topics, including:
+The course is divided into several topics, including:
 
 - Big O notation
 - Arrays and Linked Lists
@@ -15,11 +15,11 @@ Our course is divided into several topics, including:
 
 ## Code Examples
 
-We will be using C and JavaScript for our code examples. Each topic will have its own directory containing example code and notes.
+I will be using C and JavaScript for our code examples. Each topic will have its own directory containing example code and notes.
 
 ## Resources
 
-We recommend the following resources for further learning:
+I recommend the following resources for further learning:
 
 - Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein
 - Data Structures and Algorithms in JavaScript by Michael McMillan
@@ -27,7 +27,7 @@ We recommend the following resources for further learning:
 
 ## Contributions
 
-Contributions to this repository are welcome! If you find a bug in our code or want to suggest an improvement, please open an issue or submit a pull request.
+Contributions to this repository are welcome! If you find a bug in my code or want to suggest an improvement, please open an issue or submit a pull request.
 
 ## License
 
