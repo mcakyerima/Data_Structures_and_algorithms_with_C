@@ -22,13 +22,13 @@ Here's how the Binary Search Algorithm works:
 
 ## Implementations
 ### C Implementation:
-You can find the C implementation of Binary Search Algorithm in the `binary_search.c` file.
+You can find the C implementation of Binary Search Algorithm in the [binary_search.c](https://github.com/mcakyerima/Data_Structures_and_algorithms_with_C/blob/main/week2/binary_search.c) file.
 The implementation takes a sorted array and a target value as input, and returns the position
 of the target value within the array. If the target value is not found, the function returns -1.
 
 ### JavaScript Implementation
 
-You can find the JavaScript implementation of Binary Search Algorithm in the `binary_search.js` file.
+You can find the JavaScript implementation of Binary Search Algorithm in the [binary_search.js](https://github.com/mcakyerima/Data_Structures_and_algorithms_with_C/blob/main/week2/binary_search.js)   file.
 The implementation takes a sorted array and a target value as input, and returns the position of the 
 target value within the array. If the target value is not found, the function returns -1. 
 You can run the JavaScript implementation from the command line using the following syntax:
