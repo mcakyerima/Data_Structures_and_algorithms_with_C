@@ -54,8 +54,8 @@ If the target value is not found in the array, the output would look like this:
 Linear search is a simple algorithm used to find an element in a list or array by sequentially checking each element until the target element is found or the end of the list is reached. It has a time complexity of O(n), where n is the length of the list or array.
 
 ## Implementations
-- C: linear_search.c
-- JavaScript: linear_search.js
+- C: [linear_search.c](https://github.com/mcakyerima/Data_Structures_and_algorithms_with_C/blob/main/week2/linear_search.c)
+- JavaScript: [linear_search.js](https://github.com/mcakyerima/Data_Structures_and_algorithms_with_C/blob/main/week2/linear_search.js)
 
 ## Conclusion
 In this week's lesson, we learned about the Binary Search Algorithm and its implementation in C and JavaScript. 
