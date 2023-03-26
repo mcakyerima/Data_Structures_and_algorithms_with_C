@@ -1,4 +1,4 @@
-# Week 2: Binary Search Algorithm
+# Week 2: Searching & Sorting Algorithms + Dynamic Programming and Perfoance Comparison
 This week, we will be learning about the Binary Search Algorithm. We will be covering the following topics:
 - What is the Binary Search Algorithm?
 - How does the Binary Search Algorithm work?
